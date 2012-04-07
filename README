@@ -1,0 +1,18 @@
+c/c++ native library 
+
+This project commit only Android.mk and some modifing file.
+
+freetype-2.4.9
+	modified header file directory.
+	tested freetype2 tutorial transform render section.
+libtiff-4.0.1
+libjpeg-8d
+libpng-1.5.10
+	don't using neon
+	/* If pnglibconf.h is missing, you can
+	 * copy scripts/pnglibconf.h.prebuilt to pnglibconf.h
+	 */
+openjpeg-1.5.0
+
+ some libraries need practice of the ./configure
+ 
